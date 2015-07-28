@@ -1,0 +1,25 @@
+table {
+    border-style: solid;
+    border-collapse: separate;
+    width: 791px;
+    height: 43px;
+    text-align: center;
+    color: black;
+}
+.header
+{
+    background: green;
+    color: white;
+}
+
+.imena
+{
+    background: grey;
+}
+
+
+.gradove
+{
+    background: grey;
+}
+

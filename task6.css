@@ -1,0 +1,35 @@
+table {
+    border-style: solid;
+    border-collapse: separate;
+    width: 791px;
+    height: 43px;
+    text-align: center;
+    color: black;
+}
+.header
+{
+    background: cyan;
+    color: white;
+}
+.letishte {
+	background: blue;
+	color: white;
+}
+
+.cvqt{
+	background: grey;
+	color: white;
+
+}
+
+.cvqt2
+{
+		background: pink;
+	color: white;
+}
+
+ .cvqt3
+ {
+ 		background: purple;
+	color: white;
+ }
