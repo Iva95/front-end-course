@@ -1,0 +1,13 @@
+table {
+    border-style: solid;
+    border-collapse: separate;
+    width: 791px;
+    height: 43px;
+    text-align: center;
+    color: black;
+    background: grey;
+}
+.calculator
+{
+    background: grey;
+    color: white;
