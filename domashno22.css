@@ -1,0 +1,22 @@
+
+
+@keyframes example {
+   0%   {background-color:blue; left:300px; top:0px;}
+    25%  {background-color:blue; left:0px; top:0px;}
+    50%  {background-color:blue; left:0px; top:300px;}
+    75%  {background-color:blue; left:300px; top:300px;}
+    100% {background-color:blue; left:300px; top:0px;}
+}
+.kvadrat{
+	 width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    -webkit-animation-name: example;
+    -webkit-animation-duration: 4s;
+    -webkit-animation-iteration-count: infinite;
+    animation-name: example;
+ 
+
+}
+   

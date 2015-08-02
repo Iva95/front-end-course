@@ -1,0 +1,25 @@
+.primeri {
+	-webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 40px;
+    -moz-column-gap: 40px;
+    column-gap: 40px;
+    background: orange;
+    border: 1px solid cyan ;
+    
+}
+
+.primer{
+	color: cyan;
+}
+
+.zaglavie{
+	width: 1350px;
+	height: 50px;
+    background: grey;
+	color:blue;
+    border-color: black;
+    text-align: center;
+    border: 1px solid cyan ;
+}

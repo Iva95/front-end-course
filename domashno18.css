@@ -1,0 +1,59 @@
+.glavna{
+	position:static;
+	height:800px;
+	width: 800px;
+}
+
+.box1{
+position:relative;
+height: 100px;
+width: 300px;
+background-color: orange;
+box-shadow: 0 0 10px grey;
+}
+
+.text1{
+ position:relative;
+ top:30px;
+ font-weight: bold;
+ font-size:28px;
+ text-align: center;
+ text-shadow: 2px 3px 2px #fff;
+
+}
+.box2{
+position:relative;
+top:-100px;
+left:350px;
+float:left;
+margin-left: 100px 100px;
+height: 100px;
+width: 300px;
+background-color: white;
+box-shadow: 0 0 10px black;
+}
+
+.text2{
+ position:relative;
+ top:30px;
+ font-weight: bold;
+ font-size:28px;
+ color:red;
+ text-align: center;
+ text-shadow: 2px 2px 10px green;
+
+}
+.tekst{
+position:relative;
+top:-800px;
+left:700px;
+float:left;
+margin-left: 100px 100px;
+height: 100px;
+width: 195px;
+overflow:hidden;
+  display:inline-block;
+  text-overflow: ellipsis;
+white-space: nowrap;
+
+}
