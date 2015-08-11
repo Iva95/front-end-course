@@ -1,0 +1,27 @@
+.OK{
+	background-image: url(task3.png);
+	width: 100px;
+	height: 30px;
+	line-height: 30px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.cancel{
+	background-image: url(task3.png);
+	width: 80px;
+	height: 20px;
+	line-height: 20px;
+    border-radius: 5px;
+    text-align: top;
+}
+
+.click{
+	background-image: url(task3.png);
+	width: 200px;
+	height: 20px;
+	line-height: 20px;
+    border-radius: 5px;
+    text-align: top;
+    color:white;
+}
