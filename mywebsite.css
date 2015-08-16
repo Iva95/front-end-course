@@ -1,0 +1,45 @@
+header
+{
+	font-size: 250%;
+	color: white;
+	background-image: url(task55.png);
+    
+	text-align: right;
+	width: 700px;
+	height: 150px;
+	text-align: top;
+	border-radius: 5px;
+}
+
+.pic{
+ float: left;
+ border-radius: 5px;
+}
+
+
+section{
+background-color: white;
+text-align: left;
+}
+
+.lorem {
+	width: 200px;
+	margin-bottom: 20px;
+	white-space: normal;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	background-color: white;
+
+}
+ p {
+ 	width: 1000px;
+	margin-bottom: 20px;
+	white-space: normal;
+	float: right;
+	
+	background-color: white;
+ }
+
+ footer{
+ 	float: top;
+ }
