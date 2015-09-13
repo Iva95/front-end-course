@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>workout</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="query-1.11.3.min.js"></script>
+	<script src="script.js"></script>
+	<script >
+	
+$(document).ready(function(){
+	$('.show').click(function() {
+		$('div').animate({
+		width:'300px',
+		height:'300px',
+		top:'0',
+		left:'200px'
+		},2000);
+		$('div').css('background','yellow');
+	});
+	$('.hide').click(function() {
+		$('div').animate({
+		width:'100px',
+		height:'100px',
+		top:'0',
+		left:'0' 
+		});
+		$('div').css('background','red');
+	});
+});
+	</script>
+</head>
+<body>
+	<a class="show" href="#">Show</a>
+	<a class="hide" href="#">Hide</a>
+	<div class="container">
+	</div>
+</body>
+</html>
